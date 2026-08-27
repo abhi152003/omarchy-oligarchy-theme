@@ -1,0 +1,12 @@
+# Password field as a silver cigarette case
+background = "#12141a"
+background-alpha = 0.88
+text = "#d8dbe3"
+placeholder = "#7e8892"
+text-error = "#7a2e2e"
+border = "#9aa3ad"
+border-active = "#c5cad3"
+border-error = "#7a2e2e"
+border-alpha = 0.95
+selection = "#7a2e2e"
+selection-alpha = 0.35

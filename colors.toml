@@ -1,0 +1,56 @@
+# Oligarchy / Quorum — Sterling
+# Cool silver chrome on the warm boardroom wallpapers.
+# charcoal #12141a, pearl #d8dbe3, sterling #9aa3ad, oxblood #7a2e2e
+mode = "dark"
+
+accent = "#9aa3ad"
+selection = "#2a3038"
+muted = "#7e8892"
+
+background = "#12141a"
+dark_background = "#0d0f14"
+darker_background = "#090a0e"
+lighter_background = "#1a1d26"
+
+foreground = "#d8dbe3"
+dark_foreground = "#929ca6"
+light_foreground = "#e4e7ee"
+bright_foreground = "#f0f2f6"
+
+cursor = "#d8dbe3"
+
+hyprland_active_border = "rgba(9aa3adee)"
+hyprland_inactive_border = "rgba(2a303888)"
+
+red = "#7a2e2e"
+orange = "#8a6a5c"
+yellow = "#c5c0b4"
+green = "#7a8f88"
+cyan = "#8a9aaa"
+blue = "#8296ac"
+magenta = "#8a5a62"
+brown = "#4a4040"
+
+bright_red = "#9a4545"
+bright_yellow = "#d4cfc4"
+bright_green = "#92a59e"
+bright_cyan = "#a4b4c2"
+bright_blue = "#99a8c0"
+bright_magenta = "#a86a72"
+
+color0 = "#0d0f14"
+color1 = "#7a2e2e"
+color2 = "#7a8f88"
+color3 = "#c5c0b4"
+color4 = "#8296ac"
+color5 = "#8a5a62"
+color6 = "#8a9aaa"
+color7 = "#d8dbe3"
+color8 = "#7e8892"
+color9 = "#9a4545"
+color10 = "#92a59e"
+color11 = "#d4cfc4"
+color12 = "#99a8c0"
+color13 = "#a86a72"
+color14 = "#a4b4c2"
+color15 = "#f0f2f6"

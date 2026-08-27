@@ -1,0 +1,8 @@
+# Cool metal nameplate
+background = "#12141a"
+background-alpha = 0.94
+text = "#d8dbe3"
+active = "#7a2e2e"
+scale-with-font = true
+size-horizontal = 26
+size-vertical = 28
